@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi, I’m Shujaat 👋
 
+I run **TechWay Studio**, where we build WordPress websites, design web and mobile app interfaces, and create brand identities. We also help businesses improve their visibility in search and automate repetitive work with AI.
+
+[Visit the TechWay Studio website](https://techwaystudio.com)
 <!--
 **Shujaatdxb/Shujaatdxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
